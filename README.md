@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/fisaavedrae/huddle-landing-page](https://github.com/fisaavedrae/huddle-landing-page)
-- Live Site URL: [https://huddle-landing-page-one-sigma.vercel.app/](https://huddle-landing-page-one-sigma.vercel.app/)
+- Solution URL: [https://github.com/fisaavedrae/huddle-landing-page](https://github.com/fisaavedrae/profile-card-component-main)
+- Live Site URL: [https://huddle-landing-page-one-sigma.vercel.app/](https://profile-card-component-main-phi-mauve.vercel.app/)
 
 ## My process
 
@@ -57,11 +57,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I learn how to change the background imagen when is responsive
+I have some problems with de positions of avatar image, but finally I resolved it with right: fit-content(20em);
 
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
@@ -83,7 +81,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Website - [{FSE}](https://fisaavedrae.github.io/)
 - Frontend Mentor - [@fisaavedrae](https://www.frontendmentor.io/profile/fisaavedrae)
 - Twitter - [@fisaavedrae](https://www.twitter.com/fisaavedrae)
-- Instagram - [@fisaavedrae] (https://www.instagram.com/fisaavedrae/)
+- Instagram - [@fisaavedrae](https://www.instagram.com/fisaavedrae/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
