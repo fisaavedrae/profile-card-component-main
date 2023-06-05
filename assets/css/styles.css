@@ -2,6 +2,7 @@
 
 body {
     background-color: hsl(185, 75%, 39%);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
     font-family: 'Kumbh Sans', sans-serif;
     color: hsl(229, 23%, 23%);
 }
@@ -17,7 +18,7 @@ body {
 }
 
 .card {
-    width: 400px;
+    width: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +27,7 @@ body {
 }
 
 .cabecera img {
-    width: 400px;
+    width: 100%;
     display: block;
     border-radius: 15px 15px 0px 0px;
 }
@@ -35,8 +36,9 @@ body {
 
 
     position: absolute;
-    top: 220px;
-    right: 45%;
+    top: 200px;
+    right: fit-content(20em);
+
 
 }
 
@@ -83,20 +85,24 @@ body {
 }
 
 .footer {
-    width: 340px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 40px;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    width: 100%;
+
     background-color: white;
     border-radius: 0px 0px 15px 15px;
     text-align: center;
     border: 1px;
     border-color: hsl(0, 0%, 90%);
     border-style: solid none none none;
+}
+
+.datos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    padding-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .item b {
@@ -120,3 +126,5 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+@media (min-width:380px) {}
